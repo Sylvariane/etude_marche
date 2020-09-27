@@ -5,3 +5,5 @@ Les compétences acquises lors de ce projet sont :
 - la construction et la lecture d'un dendrogramme
 - le test de l'adéquation à une loi par l'intermédiaire de tests statistiques (Kolmogorov-Smirnoff, Shapiro-Wilk, etc.)
 - l'interprétation d'une analyse en composante principale.
+
+Ce projet a été soutenu le 27 septembre 2020.
