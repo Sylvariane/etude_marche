@@ -18,7 +18,7 @@ En complément de ce qui était demandé dans le projet, une seconde étude util
 
 ## Syllabus
 
-Ce projet a été réalisé dans le cadre de ma formation de Data Analyst. Ce projet est en cours de réalisation.
+Ce projet a été réalisé dans le cadre de ma formation de Data Analyst.
 
 Les compétences acquises lors de ce projet sont : 
 - la construction et la lecture d'un dendrogramme
